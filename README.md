@@ -6,5 +6,5 @@
 - 📫 How to reach me: <br>
 Instagram: @usrd2049 <br>
 Discord: 0nlyd0ts <br>
-Email: abdullamshv@gmail.com <br>
+Email: abdullamshv@gmail.com <br> 
 Telegram: @EgoNomad <br>

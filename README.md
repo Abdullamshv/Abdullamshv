@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 - Software Engineering student at **APU**  
-- **2 years of frontend experience** working with **HTML, CSS, Sass, JavaScript, and React**  
+- **2 years of frontend experience** working with **HTML, CSS, Sass, Tailwind/CSS,  JavaScript, and React**  
 - Currently exploring **Java, Flutter, and Python**  
 - Experienced with **Jira**, **Git**, and **GitHub**  
 - Passionate about building **modern, responsive, and interactive web and mobile applications** 🚀  

@@ -10,7 +10,7 @@
 ### 🌱 Technical Stack
 * **Mobile:** Flutter, Dart, State Management (Provider/Bloc).
 * **Web:** React.js, JavaScript (ES6+), Tailwind CSS, Sass, HTML5/CSS3.
-* **Tools:** Git, GitHub, Jira, VS Code.
+* **Tools:** Git, GitHub, Jira.
 
 ### 🚀 Key Achievements
 * **FinFin App:** Spearheaded end-to-end development and reduced load times by 30%.

@@ -15,10 +15,9 @@
 ### 🚀 Key Achievements
 * **FinFin App:** Spearheaded end-to-end development and reduced load times by 30%.
 * **Silkway Platform:** Developed a responsive website for an educational platform using React.js.
-* **Agile:** Experienced in working within Agile sprints and performing code reviews.
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Твоя ссылка здесь]
+* **LinkedIn:** www.linkedin.com/in/abdulla-mashayev
 * **Email:** abdullamshv@gmail.com
 * **Telegram:** [@EgoNomad](https://t.me/EgoNomad)
 

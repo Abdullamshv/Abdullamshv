@@ -9,7 +9,7 @@
 
 ### 🌱 Technical Stack
 * **Mobile:** Flutter, Dart, State Management (Provider/Bloc).
-* **Web:** React.js, JavaScript (ES6+), Tailwind CSS, Sass, HTML5/CSS3.
+* **Web:** React.js, JavaScript (ES6+), TypeScript, Tailwind CSS, SASS, HTML5/CSS3.
 * **Tools:** Git, GitHub, Jira.
 
 ### 🚀 Key Achievements

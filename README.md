@@ -13,7 +13,7 @@
 * **Tools:** Git, GitHub, Jira.
 
 ### 🚀 Key Achievements
-* **FinFin App:** Spearheaded end-to-end development and reduced load times by 30%.
+* **FinFin App:** Spearheaded end-to-end development.
 * **Silkway Platform:** Developed a responsive website for an educational platform using React.js.
 
 ### 📫 Connect with Me

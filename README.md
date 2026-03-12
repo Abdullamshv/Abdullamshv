@@ -1,8 +1,8 @@
-# Hi, I'm Abdulla Mashayev! [cite_start]👋 [cite: 1]
+# Hi, I'm Abdulla Mashayev! 👋
 
 **Aspiring software Engineer @ APU which is looking for internship | Flutter | React.js | Next.js & TypeScript**
 
-[cite_start]Software Engineering student with a strong academic foundation and hands-on experience in building scalable cross-platform mobile and modern web applications. [cite: 5] [cite_start]Deeply passionate about End-to-End development, creating seamless UI/UX, and designing robust system architectures. [cite: 6]
+Software Engineering student with a strong academic foundation and hands-on experience in building scalable cross-platform mobile and modern web applications. Deeply passionate about End-to-End development, creating seamless UI/UX, and designing robust system architectures.
 
 ### 🛠 Tech Stack & Tools
 
@@ -14,29 +14,29 @@
 
 ### 💼 Work Experience
 
-* [cite_start]**Software Engineer (Mobile & Web)** @ FinFin *(06/2025 – Current)* [cite: 40]
-  * [cite_start]Implemented a high-performance mobile application leveraging GetX, featuring intricate gamification mechanics and secure JWT authentication. [cite: 42]
-  * [cite_start]Constructed official web portal featuring dynamic localization in five languages and interactive charts, leveraging Next.js and Context API. [cite: 43]
-* [cite_start]**Frontend Developer Intern** @ SilkwayGlobal Education Centre *(01/2025 – 06/2025)* [cite: 47]
-  * [cite_start]Designed and built a dynamic website with a focus on responsiveness and usability, leveraging React.js and Tailwind CSS technologies. [cite: 48]
-  * [cite_start]Created a robust lead generation system incorporating form validation and real-time integration with CRM. [cite: 51]
+* **Software Engineer (Mobile & Web)** @ FinFin *(06/2025 – Current)*
+  * Implemented a high-performance mobile application leveraging GetX, featuring intricate gamification mechanics and secure JWT authentication.
+  * Constructed official web portal featuring dynamic localization in five languages and interactive charts, leveraging Next.js and Context API.
+* **Frontend Developer Intern** @ SilkwayGlobal Education Centre *(01/2025 – 06/2025)*
+  * Designed and built a dynamic website with a focus on responsiveness and usability, leveraging React.js and Tailwind CSS technologies.
+  * Created a robust lead generation system incorporating form validation and real-time integration with CRM.
 
 ### 🚀 Featured Projects
 
-* 📈 **FinFinEdu** | [cite_start]*Next.js, Flutter, TypeScript, Tailwind CSS* [cite: 54]
-  [cite_start]Spearheaded the End-to-End development of a gamified financial literacy platform, building both the cross-platform mobile application and the Next.js web application. [cite: 55] [cite_start]Architected the Next.js web platform, implementing a robust internationalization (i18n) system supporting 5 global languages. [cite: 56]
-* 🏴‍☠️ **Anime Corsair** | [cite_start]*React, Redux Toolkit, TypeScript, Tailwind CSS* [cite: 59]
-  [cite_start]Engineered a scalable anime discovery platform, architecting global state management with Redux Toolkit for complex asynchronous data fetching and pagination. [cite: 60]
-* 🛍️ **Beauty Shop** | [cite_start]*Flutter, Dart* [cite: 64]
-  [cite_start]Engineered a highly responsive cross-platform e-commerce application, utilizing Flutter's CustomScrollView and Sliver architecture to deliver a fluid, native-like scrolling experience. [cite: 65]
-* 🌤️ **Weather Forecast App** | [cite_start]*Flutter, Dart, BLOC/Cubit, REST API* [cite: 68]
-  [cite_start]Developed a scalable cross-platform weather application, implementing the BLOC (Cubit) state management pattern for predictable UI updates and strict separation of business logic. [cite: 69]
+* 📈 **FinFinEdu** | *Next.js, Flutter, TypeScript, Tailwind CSS*
+  Spearheaded the End-to-End development of a gamified financial literacy platform, building both the cross-platform mobile application and the Next.js web application. Architected the Next.js web platform, implementing a robust internationalization (i18n) system supporting 5 global languages.
+* 🏴‍☠️ **Anime Corsair** | *React, Redux Toolkit, TypeScript, Tailwind CSS*
+  Engineered a scalable anime discovery platform, architecting global state management with Redux Toolkit for complex asynchronous data fetching and pagination.
+* 🛍️ **Beauty Shop** | *Flutter, Dart*
+  Engineered a highly responsive cross-platform e-commerce application, utilizing Flutter's CustomScrollView and Sliver architecture to deliver a fluid, native-like scrolling experience.
+* 🌤️ **Weather Forecast App** | *Flutter, Dart, BLOC/Cubit, REST API*
+  Developed a scalable cross-platform weather application, implementing the BLOC (Cubit) state management pattern for predictable UI updates and strict separation of business logic.
 
 ### 📫 Connect with me
 
-* [cite_start]📧 Email: abdullamshv@gmail.com [cite: 3]
-* [cite_start]📍 Location: Kuala Lumpur, Malaysia [cite: 3]
-* [cite_start]🌍 Languages: English (Fluent), Turkmen (Fluent), Russian (Fluent) [cite: 74]
+* 📧 Email: abdullamshv@gmail.com
+* 📍 Location: Kuala Lumpur, Malaysia
+* 🌍 Languages: English (Fluent), Turkmen (Fluent), Russian (Fluent)
 
 ---
 ⭐️ *From abdullamshv with ❤️*

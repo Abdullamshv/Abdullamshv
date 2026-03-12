@@ -1,27 +1,18 @@
-# 👋 Hi, I’m Abdulla Mashayev
-
-### 💻 About Me
-* **Front-End & Mobile Developer** specializing in building scalable, cross-platform applications.
-* Currently pursuing a **Diploma in Software Engineering at APU** (2024–2026).
-* **Flutter Developer at FinFin**, driving the mobile development of a financial literacy platform.
-* **Former Frontend Intern at Silkway Global**, where I optimized responsive UI components for an educational platform.
-* Passionate about bridging the gap between complex technical requirements and pixel-perfect user interfaces.
-
 ### 🌱 Technical Stack
-* **Mobile:** Flutter, Dart, State Management (Provider/Bloc).
-* **Web:** React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, SASS, HTML5/CSS3.
-* **Tools & Workflow:** Git, GitHub, Jira, VS Code.
 
-### 🚀 Featured Projects & Achievements
-* **FinFin App (Financial Literacy):** Spearheaded the end-to-end mobile development using Flutter/Dart, implementing complex state management and seamless UI navigation.
-* **Omsk Weather Application:** Built a real-time weather forecasting app with asynchronous data processing, integrating the external WeatherAPI.
-* **Cosmetics E-Commerce Shop:** Developed a responsive and interactive front-end interface for a modern cosmetics store, focusing on performance and user experience.
-* **Silkway Website:** Engineered a responsive website for an educational platform using React.js and Tailwind CSS.
+**Mobile (Cross-Platform):** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 📫 Connect with Me
-* **LinkedIn:** [www.linkedin.com/in/abdulla-mashayev](https://www.linkedin.com/in/abdulla-mashayev)
-* **Email:** abdullamshv@gmail.com
-* **Telegram:** [@EgoNomad](https://t.me/EgoNomad)
+**Web Frontend & Architecture:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚡ Fun Fact
-When I’m not debugging code, you can usually find me building strength at the gym or diving into foreign languages — from organizing Japanese lessons to exploring phrases in Arabic, Malay, and Chinese. 🌍🏋️‍♂️
+**Tools & Workflow:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)

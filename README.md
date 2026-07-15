@@ -50,16 +50,6 @@ Software Engineering student with hands-on, production experience building scala
 | 🛍️ [**Beauty Shop**](https://github.com/Abdullamshv/cosmetics-shop) | Flutter, Dart | Cross-platform e-commerce app using Sliver architecture — 20% faster load time |
 | 🌤️ [**Weather Forecast App**](https://github.com/Abdullamshv/weather_app) | Flutter, Dart, BLoC/Cubit | Weather app with BLoC/Cubit state management — 30% lower UI update latency |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullamshv&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullamshv&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 

@@ -57,5 +57,3 @@ Software Engineering student with hands-on, production experience building scala
 - 💼 **LinkedIn:** [abdulla-mashayev](https://www.linkedin.com/in/abdulla-mashayev/)
 - 📍 **Location:** Kuala Lumpur, Malaysia
 - 🌍 **Languages:** English (Fluent), Turkmen (Fluent), Russian (Fluent)
-
-<p align="center"><i>⭐️ From abdullamshv with ❤️</i></p>

@@ -1,42 +1,71 @@
-# Hi, I'm Abdulla Mashayev! 👋
+<h1 align="center">Hi, I'm Abdulla Mashayev 👋</h1>
 
-**Aspiring software Engineer @ APU which is looking for internship | Flutter | React.js | Next.js & TypeScript**
+<h3 align="center">Software Engineer @ APU | Flutter · React.js · Next.js & TypeScript</h3>
 
-Software Engineering student with a strong academic foundation and hands-on experience in building scalable cross-platform mobile and modern web applications. Deeply passionate about End-to-End development, creating seamless UI/UX, and designing robust system architectures.
+<p align="center">
+Software Engineering student with hands-on, production experience building scalable cross-platform mobile and modern web applications. Passionate about end-to-end development, seamless UI/UX, and robust system architecture.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulla-mashayev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdullamshv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
 
 ### 🛠 Tech Stack & Tools
 
-**Frontend & Mobile:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+**Frontend & Mobile**
 
-**Backend & Database:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-**Tools & Architecture:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![BLOC](https://img.shields.io/badge/Architecture-BLOC%20%7C%20Cubit-blue?style=for-the-badge) ![GetX](https://img.shields.io/badge/State%20Management-GetX-green?style=for-the-badge)
+**Backend & Database**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Architecture**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![BLOC](https://img.shields.io/badge/Architecture-BLoC%20%7C%20Cubit-blue?style=for-the-badge) ![GetX](https://img.shields.io/badge/State%20Management-GetX-green?style=for-the-badge) ![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+
+---
 
 ### 💼 Work Experience
 
-* **Software Engineer (Mobile & Web)** @ FinFin *(06/2025 – Current)*
-  * Implemented a high-performance mobile application leveraging GetX, featuring intricate gamification mechanics and secure JWT authentication.
-  * Constructed official web portal featuring dynamic localization in five languages and interactive charts, leveraging Next.js and Context API.
-* **Frontend Developer Intern** @ SilkwayGlobal Education Centre *(01/2025 – 06/2025)*
-  * Designed and built a dynamic website with a focus on responsiveness and usability, leveraging React.js and Tailwind CSS technologies.
-  * Created a robust lead generation system incorporating form validation and real-time integration with CRM.
+**Software Engineer (Mobile & Web)** — FinFinEdu · *June 2025 – Present*
+- Built the FinFin mobile app in Flutter (GetX) with gamified financial-literacy mechanics and JWT-based authentication, and the companion web platform in Next.js with a 5-language i18n system.
+- Integrated the Finnhub API for real-time financial news, using AbortController to keep the UI responsive under slow network conditions.
+
+**Frontend Developer Intern** — SilkwayGlobal Education Centre · *Jan 2025 – June 2025*
+- Designed and built a responsive marketing website using React.js and Tailwind CSS.
+- Built a lead-generation system with form validation and real-time CRM integration.
+
+---
 
 ### 🚀 Featured Projects
 
-* 📈 **FinFinEdu** | *Next.js, Flutter, TypeScript, Tailwind CSS*
-  Spearheaded the End-to-End development of a gamified financial literacy platform, building both the cross-platform mobile application and the Next.js web application. Architected the Next.js web platform, implementing a robust internationalization (i18n) system supporting 5 global languages.
-* 🏴‍☠️ **Anime Corsair** | *React, Redux Toolkit, TypeScript, Tailwind CSS*
-  Engineered a scalable anime discovery platform, architecting global state management with Redux Toolkit for complex asynchronous data fetching and pagination.
-* 🛍️ **Beauty Shop** | *Flutter, Dart*
-  Engineered a highly responsive cross-platform e-commerce application, utilizing Flutter's CustomScrollView and Sliver architecture to deliver a fluid, native-like scrolling experience.
-* 🌤️ **Weather Forecast App** | *Flutter, Dart, BLOC/Cubit, REST API*
-  Developed a scalable cross-platform weather application, implementing the BLOC (Cubit) state management pattern for predictable UI updates and strict separation of business logic.
-
-### 📫 Connect with me
-
-* 📧 Email: abdullamshv@gmail.com
-* 📍 Location: Kuala Lumpur, Malaysia
-* 🌍 Languages: English (Fluent), Turkmen (Fluent), Russian (Fluent)
+| Project | Stack | Highlights |
+|---|---|---|
+| 📈 [**FinFinEdu**](https://github.com/Abdullamshv/finfin-web) | Next.js, Flutter, TypeScript, Tailwind CSS | End-to-end build of a gamified financial literacy platform — mobile app + web platform with 5-language i18n and sub-200ms news feed |
+| 🏴‍☠️ [**Anime Corsair**](https://github.com/Abdullamshv/anime-search-app) | React, Redux Toolkit, TypeScript | Anime discovery platform with debounced search, Skeleton loaders, and rate-limited REST calls |
+| 🛍️ [**Beauty Shop**](https://github.com/Abdullamshv/cosmetics-shop) | Flutter, Dart | Cross-platform e-commerce app using Sliver architecture — 20% faster load time |
+| 🌤️ [**Weather Forecast App**](https://github.com/Abdullamshv/weather_app) | Flutter, Dart, BLoC/Cubit | Weather app with BLoC/Cubit state management — 30% lower UI update latency |
 
 ---
-⭐️ *From abdullamshv with ❤️*
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullamshv&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullamshv&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email:** abdullamshv@gmail.com
+- 💼 **LinkedIn:** [abdulla-mashayev](https://www.linkedin.com/in/abdulla-mashayev/)
+- 📍 **Location:** Kuala Lumpur, Malaysia
+- 🌍 **Languages:** English (Fluent), Turkmen (Fluent), Russian (Fluent)
+
+<p align="center"><i>⭐️ From abdullamshv with ❤️</i></p>
